@@ -1,0 +1,25 @@
+
+// .logo {
+    
+// }
+
+.header {
+    background-image: url('/public/header-bg.svg');
+    height: 1000px;
+    background-size: cover;
+    position: relative;
+
+
+    &__inner {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    &__menu-list {
+        display: flex;
+        gap: 42.73px;
+    }
+  }
+
+
+  
