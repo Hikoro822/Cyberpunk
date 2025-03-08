@@ -1,7 +1,9 @@
-@import './fonts.scss';
-@import './reset.scss';
-@import './header.scss';
-@import './platform-availability.scss';
+@use './fonts.scss';
+@use './reset.scss';
+@use './header.scss';
+@use './platform-availability.scss';
+@use './night-city.scss';
+
 
 *{
     font-family: 'Roboto', sans-serif;
