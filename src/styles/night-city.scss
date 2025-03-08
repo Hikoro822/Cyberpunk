@@ -17,10 +17,13 @@
         line-height: 34px;
         letter-spacing: 0%;
         margin-bottom: 70px;
+        max-width: 952px;
+        opacity: .7;
 
         span{
-            color: #7dd3eb;
+            color: var(--span-color);
             font-weight: 700;
+            opacity: 1;
         }
     }
 
